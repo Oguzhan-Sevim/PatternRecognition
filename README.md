@@ -1,2 +1,2 @@
 # PatternRecognition
-This  repository includes 5 Pattern Recognition Projects of which written in Matlab
+This  repository includes 5 Pattern Recognition Projects. The codes are written in Matlab
